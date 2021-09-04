@@ -7,6 +7,12 @@ Graphical display based on mhlw.go.jp data.
  <script src="https://code.highcharts.com/highcharts.js"></script>
  ```
 
+### Data source<br>（データ取得元）
+**Ministry of Health, Labour and Welfare（厚生労働省）**
+[https://www.mhlw.go.jp/stf/covid-19/open-data.html](https://www.mhlw.go.jp/stf/covid-19/open-data.html)
+
+### Input data<br>（入力データ）
+[**National data（全国データ）**：COVID-19_JP.csv](https://github.com/u-10bei/covid-19_JPdata/blob/main/data/COVID-19_JP.csv)
 ## Reference Page<br>（参考ページ）
 
 |Reference site<br>（参考サイト）|Adress<br>（アドレス）|memo<br>（備考）|
